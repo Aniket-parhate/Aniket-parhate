@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniket-parhate" alt="aniket-parhate" /></a> </p>
 
-- 🌱 I’m currently learning **Java(Servlet)**
+- 🌱 I’m currently learning **Java(Android Development)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aniket-parhate](https://github.com/Aniket-parhate)
 
