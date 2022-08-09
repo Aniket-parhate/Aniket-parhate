@@ -29,14 +29,11 @@
 <h2 align="center">🤝 Get in touch!</h2>
 
 <p align="center">
-  <a href="https://www.instagram.com/aniket.091/" target="_blank">
-    <img src="./assets/instagram.png" height="32" width="32" alt="insta" >
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://discord.com/invite/GaczkwfgV9" target="_blank">
+  <a href="https://discord.gg/cfxKSCeq" target="_blank">
     <img src="./assets/discord.svg" height="32" width="32" alt="discord" >
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://aniket.cf/" target="_blank">
-    <img src="./assets/aniket.png" height="32" width="32" alt="website" >
+  <a href="https://www.youtube.com/channel/UCT4CLV14uZjTB0kYu4ceDnw" target="_blank">
+    <img src="./assets/Aniket.jpg" height="32" width="32" alt="Youtube" >
   </a>
 </p>
 
