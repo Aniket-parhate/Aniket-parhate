@@ -1,39 +1,49 @@
-<h1 align="center">Hey 👋, I'm Aniket</h1>
-<h3 align="center">Just another Indian guy who loves to code</h3>
+<div align="center">
+<img width="100%" height = "250px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner3.gif" alt="cover" />
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aniket091&style=flat-square&label=profile%20views&color=6366f1" alt="views" />
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
+<p align='center'>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=.)
+
 </p>
+<div size='20px'> Hi! My name is Aniket Parhate. Thank You for taking the time to view my GitHub Profile :smile: 
+</div>
+
+<h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
+
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
 
-<h3 align="center">Languages and Tools:</h3>
+- 🔭 I’m currently working on VoewlWeb website UI clone
 
-<p align="center">
-  <img width="40px" alt="JS"       src="./assets/kt.png" />&nbsp;&nbsp;
-  <img width="40px" alt="Node.JS"  src="./assets/html.svg"/>&nbsp;&nbsp;
-  <img width="40px" alt="python"   src="./assets/css.svg" />&nbsp;&nbsp;
-  <img width="40px" alt="ps"       src="./assets/python.svg" />&nbsp;&nbsp;
-  <img width="40px" alt="vs code"  src="./assets/vscode.svg"/>&nbsp;&nbsp;
-</p>
+- 🌱 I’m currently learning Javascript(ReactJs). 
+
+- 👯 I’m looking to collaborate on projects, IT companies
 
 
-<h2 align="center">Github Stats!</h2>
+- 💬 Talk to me about Front-End Web Development 
 
-<p align="center">
-  <a href="https://github.com/aniket091/">
-    <img src="https://github-readme-stats.vercel.app/api?username=aniket091&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="github stats" >
-  </a>
-</p>
+<h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
+<a href= https://github.com/?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
+<a href= https://github.com/?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
+<a href= https://github.com/?tab=repositories&q=&type=&language=tailwind&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg'> </a>
+<a href= https://github.com/?tab=repositories&q=&type=&language=git&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
+<a href= https://github.com/?tab=repositories&q=&type=&language=github&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
+<a href= https://github.com/?tab=repositories&q=&type=&language=figma&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg'> </a>
+<a href= https://github.com/?tab=repositories&q=&type=&language=materialize&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/materialize.svg'> </a>
 
 
-<h2 align="center">🤝 Get in touch!</h2>
+<h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
+<a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/aniket-parhate-431815223/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+</a>
+<br>
 
-<p align="center">
-  <a href="https://discord.gg/cfxKSCeq" target="_blank">
-    <img src="./assets/discord.svg" height="32" width="32" alt="discord" >
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/channel/UCT4CLV14uZjTB0kYu4ceDnw" target="_blank">
-    <img src="./assets/Aniket.jpg" height="32" width="32" alt="Youtube" >
-  </a>
-</p>
+<h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
 
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
+
+
+<br>
+<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
