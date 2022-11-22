@@ -1,22 +1,31 @@
-### Hi there 👋, my name is Aniket
-#### I am Front-End Web Developer
-![I am Front-End Web Developer](https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner3.gif)
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Hi, Nice to meet you.
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
+<h2 align="center">I am a MERN stack developer.</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="450px" width="350px" align="right"> <br>
+</p>
 
-Hire me for Front-End Web Devlopment
+<h4 align="center">I am a MERN Stack Developer. I own a strong hold on different skills such as HTML5, CSS3, JavaScript, ReactJS, NodeJS, Express.js, Mongodb I've done multiple projects on website and web app development.</h4>
 
-Skills: HTML5 / CSS3 / Tailwind CSS / JavaScript
+#### ![](https://img.shields.io/badge/Django-blue) ![](https://img.shields.io/badge/Python-blue) ![](https://img.shields.io/badge/Selenium-blue) ![](https://img.shields.io/badge/BeautifulSoup-blue) ![](https://img.shields.io/badge/Pandas-blue) ![](https://img.shields.io/badge/Numpy-blue) ![](https://img.shields.io/badge/Flask-blue) ![](https://img.shields.io/badge/Vue-blue) ![](https://img.shields.io/badge/Nuxt-blue) ![](https://img.shields.io/badge/React-blue) ![](https://img.shields.io/badge/Typescript-blue) ![](https://img.shields.io/badge/Next-blue) ![](https://img.shields.io/badge/Node-blue) ![](https://img.shields.io/badge/Express-blue) ![](https://img.shields.io/badge/Database-blue) ![](https://img.shields.io/badge/Tailwind-blue) ![](https://img.shields.io/badge/AWS-blue) ![](https://img.shields.io/badge/Azure-blue) ![](https://img.shields.io/badge/Web3.js-blue) ![](https://img.shields.io/badge/Ethers.js-blue) ![](https://img.shields.io/badge/Blockchain-blue) ![](https://img.shields.io/badge/Ethereum-blue) ![](https://img.shields.io/badge/Solidity-blue) ![](https://img.shields.io/badge/Solana-blue) ![](https://img.shields.io/badge/Tezos-blue) ![](https://img.shields.io/badge/Angular-blue) ![](https://img.shields.io/badge/Web3-blue) ![](https://img.shields.io/badge/Smart%Contract-blue) ![](https://img.shields.io/badge/Golang-blue) ![](https://img.shields.io/badge/Rust-blue) ![](https://img.shields.io/badge/PostgreSQL-blue) ![](https://img.shields.io/badge/AWS-blue) ![](https://img.shields.io/badge/PHP-blue) ![](https://img.shields.io/badge/Laravel-blue)
 
-- 🔭 I’m currently working on VoewlWeb website UI clone 
-- 🌱 I’m currently learning Javascript(ReactJS) 
-- 👯 I’m looking to collaborate on projects, IT companies 
-- 💬 Ask me about Front-End Web Development 
-- 😄 Pronouns: He/Him 
+##
+
+<img src="https://activity-graph.herokuapp.com/graph?username=practaldev&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
+<br/>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Aniket-parhate)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aniket-parhate/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/AniketParhate)  
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=practaldev&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=onedark&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=practaldev&hide=PHP,html,c&theme=onedark&hide_border=true&line_height=27">
+  <br><br>
+    <img src = "https://github-readme-streak-stats.herokuapp.com?user=practaldev&theme=onedark&hide_border=true&include_all_commits=true&line_height=27">
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniket-parhate)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center" style="margin-bottom: 10px;">
+    <img src="https://github-profile-trophy.vercel.app/?username=practaldev&column=7&theme=onedark"/>
+</p>
 
-![GitHub metrics](https://metrics.lecoq.io/Aniket-parhate)  
-
-![Profile views](https://gpvc.arturio.dev/Aniket-parhate)  
