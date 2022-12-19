@@ -3,7 +3,7 @@
   Hi, Nice to meet you.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
-<h2 align="center">I am a MERN stack developer.</h2>
+<h2 align="center">I am a React Native and React.js developer.</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="450px" width="350px" align="right"> <br>
 </p>
