@@ -8,9 +8,9 @@
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="450px" width="350px" align="right"> <br>
 </p>
 
-<h4 align="center">I am a MERN Stack Developer. I own a strong hold on different skills such as HTML5, CSS3, JavaScript, ReactJS, NodeJS, Express.js, Mongodb I've done multiple projects on website and web app development.</h4>
+<h4 align="center">I am a React Native Developer. I own a strong hold on different skills such as HTML5, CSS3, JavaScript, ReactJS, NodeJS, Express.js, Mongodb I've done multiple projects on website and web app development.</h4>
 
-#### ![](https://img.shields.io/badge/Mongodb-blue) ![](https://img.shields.io/badge/Express.js-blue) ![](https://img.shields.io/badge/ReactJS-blue) ![](https://img.shields.io/badge/Node.js-blue) 
+#### ![](https://img.shields.io/badge/React Native-blue) ![](https://img.shields.io/badge/ReactJS-blue) ![](https://img.shields.io/badge/Mongodb-blue) ![](https://img.shields.io/badge/Express.js-blue)  ![](https://img.shields.io/badge/Node.js-blue) 
 
 ##
 
