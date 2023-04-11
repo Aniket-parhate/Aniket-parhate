@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **personal projects**
 
-- 🌱 I’m currently learning **Azure, AWS**
+- 🌱 I’m currently learning **Redux & Backend**
 
 - 👨‍💻 My portfolio website [https://aniket-parhate.netlify.app/](https://aniket-parhate.netlify.app/)
 
-- 💬 Ask me about **React Native**
+- 💬 Ask me about **React.js & React Native**
 
 - 📫 How to reach me **parateaniket2008@gmail.com**
 
