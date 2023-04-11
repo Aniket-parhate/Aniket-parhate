@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aniket Parhate</h1>
-<h3 align="center">Application Developer [React Native]</h3>
+<h3 align="center">React.js & React Native Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniket-parhate&label=Profile%20views&color=0e75b6&style=flat" alt="aniket-parhate" /> </p>
 
