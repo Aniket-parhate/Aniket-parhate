@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Redux & Backend**
 
-- 👨‍💻 My portfolio website [https://aniket-parhate.netlify.app/](https://aniket-parhate.netlify.app/)
+- 👨‍💻 My portfolio website [)
 
 - 💬 Ask me about **React.js & React Native**
 
