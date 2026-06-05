@@ -1,10 +1,6 @@
 # Hi 👋, I'm Aniket Parhate
 Node.js & React Native Developer | DevOps Enthusiast
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=500&color=F7DF1E&center=true&width=435&lines=Passionate+Developer+%7C+MERN+Stack+Expert;Innovating+with+Code+%7C+Open+to+Learn!" alt="Typing Animation" />
-</p>
-
 ---
 
 ## 🌟 **About Me**
